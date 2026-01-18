@@ -1,0 +1,27 @@
+# Các thư mục hệ thống Unity sinh ra (Rác)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Các file IDE sinh ra (Visual Studio, VS Code)
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.VC.db
+
+# File hệ thống Mac/Windows
+.DS_Store
+Thumbs.db
