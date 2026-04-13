@@ -1,0 +1,20 @@
+# Windows / Python
+__pycache__/
+*.pyc
+*.exe
+build/
+*.spec
+
+# Không push file cực lớn
+ffmpeg.exe
+ffmpeg-*/
+
+# File chạy local
+setting_gui.py
+bot_discloud.zip
+bot_upload.zip
+roles_list.json
+
+# Bảo mật — chứa token
+config.json
+databases/
